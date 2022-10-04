@@ -1,6 +1,6 @@
 AUTHOR = 'Shaishav'
 SITENAME = 'My Cool Site'
-SITEURL = 'https://github.com/ShaishavShah04/404Lab5'
+SITEURL = 'https://shaishavshah04.github.io/404Lab5/'
 
 PATH = 'content'
 
@@ -29,3 +29,5 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+THEME='templates/mytheme'
